@@ -2,22 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bit of everything -&gt; Shashank V</title>
-    <link>https://example.org/</link>
+    <link>https://shashankqv.github.io/</link>
     <description>Recent content on Bit of everything -&gt; Shashank V</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 May 2018 12:58:42 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shashankqv.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>https://shashankqv.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 21 May 2018 12:58:42 +0530</pubDate>
       
-      <guid>https://example.org/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://shashankqv.github.io/posts/my-first-post/</guid>
+      <description>Hey There,
+This is Shashank Vivek. I have setup this blog using hugo and Github Pages. I&amp;rsquo;ll be mostly writing about tech here. Looking forward to it.</description>
     </item>
     
   </channel>
